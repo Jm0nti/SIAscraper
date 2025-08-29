@@ -34,7 +34,6 @@ pip install -r requirements.txt
 1. Ejecuta el main que llama a ejecución los 5 bots de forma simultánea, esta ejecución puede tardar al rededor de 1h
    ```bash
    python main.py 
-   ...
    ```
 2. Una vez extraida la información por facultades, unifica los datos ejecutando:
    ```bash
